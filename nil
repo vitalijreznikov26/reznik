@@ -1,0 +1,3 @@
+      'user_addr': address,
+    }
+    edit_session_headers(node_process, session, payload, 'GET', '/asset/net_curve_24h')
